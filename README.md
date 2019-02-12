@@ -28,11 +28,10 @@ The dataset presented in this project is untidy and requires a number of assessm
 * What do those features mean? Are there certain features should be droped from the analysis because of missing data? 
 * Are there features that need to be re-encoded (_One-Hot Encoding_) before they can be used? 
 * Need feature engineering to create some useful columns?
-* Is feature scaling needed? Normalization or Standardization?
 
 2. <strong>_Feature Transformation_</strong>: 
 
-Once the data is cleaned and ready, dimensionality reduction techniques is to use to identify relationships between variables in the dataset. Principal component analysis (PCA) is commonly used to find the vectors of maximal variability.The following points in this stage will be tackled:
+Perform feature scaling so that the principal component vectors are not influenced by the natural differences in scale for features, dimensionality reduction techniques is to use to identify relationships between variables in the dataset. Principal component analysis (PCA) is commonly used to find the vectors of maximal variability.The following points in this stage will be tackled:
 * How much variability in the data does each principal component capture? 
 * Can you interpret associations between original features in your dataset based on the weights given on the strongest components? 
 * How many components will you keep as part of the dimensionality reduction process? 
