@@ -44,5 +44,5 @@ Apply clustering techniques to identify groups in the general demographic data, 
 Apply the techniques and models that you fit on the demographic data to the customers data: data cleaning, feature scaling, PCA, and k-means clustering. Compare the distribution of people by cluster for the customer data to that of the general population._Can you say anything about which types of people are likely consumers for the mail-order sales company?_
  
  ## Remark
- We are not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions. In the notebook you can find the code and the analysis that I perfomed on the datasets.
+ It's not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions, so it's not included in this repository.
  
